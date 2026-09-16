@@ -16,6 +16,12 @@ The dashboard brings important business metrics together in a single view and al
 - Microsoft Excel
 - Data Visualization
 
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+
+![Global Superstore Executive Dashboard](./Executive-Dashboard.png)
+
 ## 📌 Dashboard Highlights
 
 ### Key Performance Indicators
@@ -55,11 +61,7 @@ The dashboard includes interactive filters for:
 
 These filters allow users to explore the dashboard based on different business dimensions.
 
-## 📷 Dashboard Preview
 
-### Executive Dashboard
-
-![Global Superstore Executive Dashboard](./Executive-Dashboard.png)
 ## 📊 Dashboard Purpose
 
 The main objective of this dashboard is to provide an interactive and easy-to-understand overview of business performance.
