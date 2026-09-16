@@ -59,8 +59,7 @@ These filters allow users to explore the dashboard based on different business d
 
 ### Executive Dashboard
 
-![Global Superstore Executive Dashboard](Screenshots/Executive-Dashboard.png)
-
+![Global Superstore Executive Dashboard](./Executive-Dashboard.png)
 ## 📊 Dashboard Purpose
 
 The main objective of this dashboard is to provide an interactive and easy-to-understand overview of business performance.
